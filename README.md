@@ -1,2 +1,2 @@
 # reacts-projects
-this projects is reacts
+this projects is reacts.
